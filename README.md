@@ -40,12 +40,6 @@ The **Arduino** reads the analog signal from the LDR and controls a **relay modu
 
 ---
 
-## ⚡ Circuit Diagram
-
-> Include a circuit diagram here in your README. If not yet created, consider using tools like [Fritzing](https://fritzing.org/) or upload a hand-drawn image.
-
----
-
 ## 🛠️ Circuit Connections
 
 | Component                 | Arduino Pin    |
