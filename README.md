@@ -29,13 +29,7 @@ The system uses an **LDR (Light Dependent Resistor)** to detect ambient light le
 
 ---
 
-## ⚙️ Circuit Diagram
 
-# Automatic Street Light System using Arduino
-
-This project is an energy-efficient **Automatic Street Light System** built using **Arduino Uno** and **LDR sensors**. The system automatically turns street lights on during darkness and off during daylight using ambient light detection.
-
----
 
 ## 🔧 Features
 
@@ -109,8 +103,5 @@ The system uses an **LDR (Light Dependent Resistor)** to detect ambient light le
 
 ---
 
-## 🚀 Getting Started
 
-1. Clone the repository:
-   ```bash
    git clone https://github.com/ANKITKUMAR-dev25/Automatic-Street-Light-Arduino.git
