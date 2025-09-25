@@ -31,9 +31,9 @@ The system uses an **LDR (Light Dependent Resistor)** to detect ambient light le
 
 ## ⚙️ Circuit Diagram
 
-![Circuit Diagram](https://raw.githubusercontent.com/ANKITKUMAR-dev25/Automatic-Street-Light-Arduino/main/circuit-diagram.png)
+![Circuit Diagram]([https://raw.githubusercontent.com/ANKITKUMAR-dev25/Automatic-Street-Light-Arduino/main/circuit-diagram.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fprojectronics.in%2Fproducts%2Fautomatic-street-light-controller-model%2F&psig=AOvVaw1tsv4EtisOQ8SAmRbICUJ2&ust=1758888940532000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODq147y848DFQAAAAAdAAAAABAE))
 
-> 📌 *Make sure the image file is uploaded to your GitHub repository under the correct path (or change the URL above if it's stored somewhere else).*
+
 
 ---
 
